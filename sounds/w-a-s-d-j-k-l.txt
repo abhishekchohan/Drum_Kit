@@ -1,0 +1,10 @@
+This file give refrence to the chaecter mp3 such as w.mp3 to its equvalent meaningful name.
+You this as a guideline and follow it to add more drum beats if any.
+
+w == cash
+a == kick
+s == snare
+d == tom1
+j == tom2
+k == tom3
+l == tom4
