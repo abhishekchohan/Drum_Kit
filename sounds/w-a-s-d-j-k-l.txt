@@ -1,5 +1,5 @@
 This file give refrence to the chaecter mp3 such as w.mp3 to its equvalent meaningful name.
-You this as a guideline and follow it to add more drum beats if any.
+use this as a guideline and follow it to add more drum beats if any.
 
 w == cash
 a == kick
